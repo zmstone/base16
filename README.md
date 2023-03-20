@@ -24,7 +24,3 @@ License
 -------
 
 The library itself is licensed under the Simplified (2-clause) BSD license.
-
-The tests, due to dependency on [PropEr], are licensed under the GPLv3 license.
-
-[PropEr]:http://proper.softlab.ntua.gr/index.html
